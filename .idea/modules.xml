@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BTripPlanner.iml" filepath="$PROJECT_DIR$/BTripPlanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/garmin-img/export/garmin-img-exporter.iml" filepath="$PROJECT_DIR$/garmin-img/export/garmin-img-exporter.iml" group="garmin-img" />
+      <module fileurl="file://$PROJECT_DIR$/garmin-img/reader/garmin-img-reader.iml" filepath="$PROJECT_DIR$/garmin-img/reader/garmin-img-reader.iml" group="garmin-img" />
+    </modules>
+  </component>
+</project>
+
